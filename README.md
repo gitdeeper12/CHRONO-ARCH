@@ -1,4 +1,5 @@
 # CHRONO-ARCH
+<<<<<<< HEAD
 
 > **A Computational Framework for Temporal Archaeology and Civilizational Dynamics Using AI and Complex Systems Modeling**
 
@@ -803,3 +804,6 @@ CHRONO-ARCH v1.0.0 · MIT License · May 2026
 Preprint — Not Peer-Reviewed
 
 </div>
+=======
+A Computational Framework for Temporal Archaeology and Civilizational Dynamics Using AI and Complex Systems Modeling
+>>>>>>> 01bdf51be3821a0c5c33a7fafef77e41fe9d37d9
