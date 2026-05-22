@@ -1,0 +1,17 @@
+# Calibrated collapse thresholds θ_c by region/era
+
+bronze_age_eastern_med: 0.32
+bronze_age_anatolia: 0.28
+bronze_age_egypt: 0.35
+bronze_age_mesopotamia: 0.30
+
+maya_classic_terminal: 0.38
+maya_preclassic: 0.42
+
+roman_western_empire: 0.25
+roman_eastern_empire: 0.20
+
+akkadian_empire: 0.33
+harappan: 0.40
+
+default: 0.35

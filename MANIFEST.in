@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+recursive-include src *.py
+recursive-include data *.nc
+recursive-include config *.yaml

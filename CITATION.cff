@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use CHRONO-ARCH in your research, please cite it as below."
+title: "CHRONO-ARCH: A Computational Framework for Temporal Archaeology and Civilizational Dynamics"
+authors:
+  - family-names: "Baladi"
+    given-names: "Samir"
+    orcid: "https://orcid.org/0009-0003-8903-0029"
+    affiliation: "Ronin Institute / Rite of Renaissance"
+    email: "gitdeeper@gmail.com"
+version: 1.0.0
+date-released: 2026-05-21
+doi: "10.5281/zenodo.20330475"
+license: "MIT"
+repository-code: "https://github.com/gitdeeper12/CHRONO-ARCH"
+keywords:
+  - "computational archaeology"
+  - "complex systems"
+  - "civilizational dynamics"
+  - "temporal graphs"
+  - "nonlinear dynamics"
+  - "phase transitions"
+  - "causal inference"
+type: "software"
+abstract: "CHRONO-ARCH is a computational framework for modeling civilizations as nonlinear, temporally evolving dynamical systems embedded in environmental, economic, and networked interaction fields."

@@ -1,0 +1,35 @@
+# CHRONO-ARCH Default Configuration
+
+simulation:
+  dt: 0.01
+  T_max: 1000.0
+  n_dimensions: 6
+  n_civilizations: 10
+  
+collapse:
+  threshold: 0.35
+  hysteresis: false
+  early_warning_window: 50
+  
+environment:
+  coupling_enabled: true
+  sensitivity_type: diagonal
+  
+graph:
+  dynamics_enabled: true
+  update_rule: coevolution
+  initial_topology: small_world
+  
+probabilistic:
+  fokker_planck_enabled: true
+  diffusion_coefficient: 0.1
+  particle_filter_n: 1000
+  
+causal:
+  learning_method: constraint_based
+  counterfactual_samples: 1000
+  
+output:
+  dir: ./output/
+  format: netcdf
+  log_level: INFO

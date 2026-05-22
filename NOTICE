@@ -1,0 +1,15 @@
+CHRONO-ARCH
+Copyright (c) 2026 Samir Baladi
+Licensed under the MIT License.
+
+This software includes the following dependencies:
+- NumPy: BSD License
+- SciPy: BSD License
+- PyTorch: BSD-style License
+- NetworkX: BSD License
+- Xarray: Apache License 2.0
+
+CHRONO-ARCH: A Computational Framework for Temporal Archaeology and Civilizational Dynamics
+DOI: 10.5281/zenodo.20330475
+
+Contact: gitdeeper@gmail.com

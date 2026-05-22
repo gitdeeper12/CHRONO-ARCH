@@ -1,0 +1,19 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  CHRONO-ARCH COMPLETION CERTIFICATE         ║
+║                                                              ║
+║     Computational Framework for Temporal Archaeology        ║
+║                                                              ║
+║                       v1.0.0                                ║
+║                       May 2026                              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+Project: CHRONO-ARCH
+Principal Investigator: Samir Baladi
+Status: COMPLETED
+
+"The goal is not to predict the past, but to understand the space 
+of pasts consistent with the evidence."
+
+DOI: 10.5281/zenodo.20330475

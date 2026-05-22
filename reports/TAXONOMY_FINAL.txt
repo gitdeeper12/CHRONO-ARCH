@@ -1,0 +1,36 @@
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    NEW TAXONOMY PROPOSED                                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  🏷️  Adaptive-Volatile    (formerly 'Fragile')                             │
+│      • Low initial stability, high volatility                               │
+│      • Fast recovery, positive long-term trend                              │
+│      • Risk: High risk, high reward                                         │
+│                                                                             │
+│  🏷️  Balanced-Resilient    (formerly 'Moderate')                            │
+│      • Moderate stability, low volatility                                   │
+│      • Consistent performance, best baseline                                │
+│      • Risk: Low risk, moderate reward                                      │
+│                                                                             │
+│  🏷️  Rigid-Declining        (formerly 'Stable')                             │
+│      • High initial stability, poor recovery                                │
+│      • Negative long-term trend, rigidity without adaptation                │
+│      • Risk: Low risk, negative reward                                      │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+KEY FINDINGS:
+=============
+1. Fragile system (0.1545) → Improved to 0.5309 (+243%)
+2. Stable system (0.8866) → Declined to 0.5309 (-40%)
+3. Collapse is NOT equivalent to failure
+4. Volatility enables adaptation
+5. Static stability leads to rigidity
+
+FORMAL METRICS:
+===============
+R (Resilience)   = mean(S(t)) - λ·C
+σ² (Variance)    = Var(S(t))
+ρ (Recovery)     = ΔS/Δt
+α (Adaptability) = (S_final - S_initial)/(1+C)
+
